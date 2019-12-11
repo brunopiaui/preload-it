@@ -1,11 +1,13 @@
 # preload-it-extended
 
+This lib is a fork of the project [preload-it](https://github.com/andreupifarre/preload-it).
+
 A tiny 1kb JavaScript library for preloading assets on the browser via XHR2.
 It provides the ability to preload assets of different file types and composite progress events.
 
 ## Installing
 
-If you use npm, `npm i preload-it-extended`. Otherwise, download the [latest release](https://github.com/andreupifarre/preload-it-extended/releases/latest). The released bundle supports anonymous AMD, CommonJS, and vanilla environments. You can load directly from [unpkg](https://unpkg.com/preload-it-extended/). For example:
+If you use npm, `npm i preload-it-extended`. Otherwise, download the [latest release](https://github.com/brunopiaui/preload-it-extended/releases/latest). The released bundle supports anonymous AMD, CommonJS, and vanilla environments. You can load directly from [unpkg](https://unpkg.com/preload-it-extended/). For example:
 
 ```html
 <script src="https://unpkg.com/preload-it-extended@latest/dist/preload-it-extended.js"></script>
